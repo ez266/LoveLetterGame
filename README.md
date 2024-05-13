@@ -37,7 +37,7 @@ java -jar Lovelettergame.jar
 
 * The rest should be role 'Player'
 
-* Player will enter lobby first, and game should be created first.
+* Player will enter lobby first and there you can create a game
 
 * Once every connected player is in the game and ready, game will start automatically
 
